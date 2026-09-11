@@ -196,3 +196,77 @@
 | 桌面客户端 | Tauri + Rust |
 | 数据库 | MySQL + Redis |
 | 部署方式 | Go服务 / Docker Compose |
+
+---
+
+## 界面截图
+
+<details>
+<summary>前端界面（17 张，点击展开）</summary>
+
+![前端界面 01](./dist/frontend-01.png)
+
+![前端界面 02](./dist/frontend-02.png)
+
+![前端界面 03](./dist/frontend-03.png)
+
+![前端界面 04](./dist/frontend-04.png)
+
+![前端界面 05](./dist/frontend-05.png)
+
+![前端界面 06](./dist/frontend-06.png)
+
+![前端界面 07](./dist/frontend-07.png)
+
+![前端界面 08](./dist/frontend-08.png)
+
+![前端界面 09](./dist/frontend-09.png)
+
+![前端界面 10](./dist/frontend-10.png)
+
+![前端界面 11](./dist/frontend-11.png)
+
+![前端界面 12](./dist/frontend-12.png)
+
+![前端界面 13](./dist/frontend-13.png)
+
+![前端界面 14](./dist/frontend-14.png)
+
+![前端界面 15](./dist/frontend-15.png)
+
+![前端界面 16](./dist/frontend-16.png)
+
+![前端界面 17](./dist/frontend-17.png)
+
+</details>
+
+<details>
+<summary>后台界面（13 张，点击展开）</summary>
+
+![后台界面 01](./dist/admin/admin-01.png)
+
+![后台界面 02](./dist/admin/admin-02.png)
+
+![后台界面 03](./dist/admin/admin-03.png)
+
+![后台界面 04](./dist/admin/admin-04.png)
+
+![后台界面 05](./dist/admin/admin-05.png)
+
+![后台界面 06](./dist/admin/admin-06.png)
+
+![后台界面 07](./dist/admin/admin-07.png)
+
+![后台界面 08](./dist/admin/admin-08.png)
+
+![后台界面 09](./dist/admin/admin-09.png)
+
+![后台界面 10](./dist/admin/admin-10.png)
+
+![后台界面 11](./dist/admin/admin-11.png)
+
+![后台界面 12](./dist/admin/admin-12.png)
+
+![后台界面 13](./dist/admin/admin-13.png)
+
+</details>
