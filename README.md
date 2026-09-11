@@ -73,7 +73,7 @@
 - 搜索工具独立点数计费
 
 <!-- AI 搜索预览占位 -->
-![AI Search Preview](./distsearch.png)
+![AI Search Preview](./dist/search.png)
 
 ### 🎨 AI 创作套件
 
@@ -85,7 +85,8 @@
 - 五种创作布局；节点画布工作流
 - 提示词预设库，分组管理
 - 社区作品画廊，支持投稿与审核流程
-
+- 
+![AI Creation Preview](./dist/chuangzuo.png)
 **AI 视频**
 
 - AI 视频生成；可在智能体工作流内调用
@@ -96,8 +97,8 @@
 - 可视化配置可替换图文占位；自动填充幻灯片
 
 <!-- 创作预览占位 -->
-![AI Creation Preview](./distcreation.png)
-
+![AI Creation Preview](./dist/creation.png)
+![AI Creation Preview](./dist/creation2.png)
 ### 💻 在线 IDE 与容器工作空间
 
 - 浏览器内置 IDE，支持实时预览
@@ -112,8 +113,6 @@
 - 可视化系统初始化，**无需手动编辑 .env 文件**
 - 拖拽上传文件，剪贴板粘贴上传
 
-<!-- IDE 预览占位 -->
-![IDE Preview](./distide.png)
 
 ### 💰 模型管理与商业化
 
@@ -130,7 +129,7 @@
 - 用户账单与交易记录
 
 <!-- 模型管理预览占位 -->
-![Model Management Preview](./distmodel.png)
+![Model Management Preview](./dist/model.png)
 
 ### 🔐 账号与授权系统
 
@@ -196,4 +195,4 @@
 | 后端 | Golang |
 | 桌面客户端 | Tauri + Rust |
 | 数据库 | MySQL + Redis |
-| 部署方式 | Docker / Docker Compose |
+| 部署方式 | Go服务 / Docker Compose |
