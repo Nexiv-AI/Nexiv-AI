@@ -1,5 +1,5 @@
 # Nexiv AI
-> 原 ArtDraw‑AI · 一站式私有化部署 AI 智能体平台
+> 原 ArtDraw‑AI · **一站式 AI 绘图聚合平台**
 [![Release](https://img.shields.io/badge/release‑2.0.0‑4285F4)](https://github.com/)
 [![Docker](https://img.shields.io/badge/docker‑supported‑FF7A00)](https://github.com/)
 [![License](https://img.shields.io/badge/license‑MIT‑2DA44E)](https://github.com/)
@@ -10,13 +10,22 @@
 > 所有图片占位路径均使用 `./docs/assets/*.png`
 > 请将截图放置在 `docs/assets/` 目录下。
 
+> **平台简介**
+> Nexiv AI 聚合 OpenAI / Midjourney / Google / Flux / Kling / 豆包 / Grok 等顶级 AI 绘图模型，统一计费、一键调用。
+> 关键词：AI 绘图,AI 画图,Midjourney,DALL·E,FLUX,Nano Banana,Kling,Seedream,文生图,API
+
 ## 🔗 官方链接
 | 服务 | 地址 | 说明 |
 |---|---|---|
 | 🚀 演示站点 | https://demo.nexiv.me | 网页演示站 |
-| 🛡️ 授权站点 | https://license.nexiv.me | 授权管理平台 |
-| 📊 管理后台 | https://admin.nexiv.me | 运营后台 |
+| 🛡️ 授权站点1 | https://nexivai_auth.nexiv.me | 授权管理平台 |
+| 🛡️ 授权站点2 | https://artdraw-auth.l11.top | 备用授权平台 |
+| 📊 管理后台 | https://nexiv.me | 运营后台 |
 | 📖 文档站点 | https://docs.nexiv.me | 使用文档 |
+
+> 后台测试账号：
+> - 账号：`nexivai`
+> - 密码：`123123`
 
 ---
 <!-- 控制台预览占位 -->
@@ -55,7 +64,7 @@
 
 ### 🎨 AI 创作套件
 **AI 绘图**
-- 多厂商绘图适配器
+- 多厂商绘图适配器，聚合 OpenAI / Midjourney / Google / Flux / Kling / 豆包 / Grok 等模型
 - 支持参考图、局部重绘、蒙版、复刻风格
 - 批量生成图片；后端自动对不兼容服务商拆分请求
 - 五种创作布局；节点画布工作流
