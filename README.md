@@ -1,26 +1,42 @@
 # Nexiv AI
+
+<div align="center">
+
 > 原 ArtDraw‑AI · **一站式 AI 绘图聚合平台**
+
+> **平台简介**  
+> Nexiv AI 聚合 OpenAI / Midjourney / Google / Flux / Kling / 豆包 / Grok 等顶级 AI 绘图模型，统一计费、一键调用。  
+> 关键词：AI 绘图,AI 画图,Midjourney,DALL·E,FLUX,Nano Banana,Kling,Seedream,文生图,API
+
 [![Release](https://img.shields.io/badge/release‑2.0.0‑4285F4)](https://github.com/)
 [![Docker](https://img.shields.io/badge/docker‑supported‑FF7A00)](https://github.com/)
 [![License](https://img.shields.io/badge/license‑MIT‑2DA44E)](https://github.com/)
 [![Stars](https://img.shields.io/github/stars/xxxx/nexiv‑ai?style=social)](https://github.com/)
-<!-- 横幅图片占位 -->
-![Nexiv AI Banner](./docs/assets/banner.png)
-> [!NOTE]
-> 所有图片占位路径均使用 `./docs/assets/*.png`
-> 请将截图放置在 `docs/assets/` 目录下。
 
-> **平台简介**
-> Nexiv AI 聚合 OpenAI / Midjourney / Google / Flux / Kling / 豆包 / Grok 等顶级 AI 绘图模型，统一计费、一键调用。
-> 关键词：AI 绘图,AI 画图,Midjourney,DALL·E,FLUX,Nano Banana,Kling,Seedream,文生图,API
+</div>
+
+<!-- Logo 占位 -->
+<p align="center">
+  <img src="./docs/assets/logo.png" alt="Nexiv AI Logo" width="200" />
+</p>
+
+<!-- Banner 占位 -->
+<p align="center">
+  <img src="./docs/assets/banner.png" alt="Nexiv AI Banner" />
+</p>
+
+> [!NOTE]
+> 所有图片占位路径均使用 `./docs/assets/*.png`  
+> 请将 Logo、Banner、预览截图放置在 `docs/assets/` 目录下。
 
 ## 🔗 官方链接
+
 | 服务 | 地址 | 说明 |
 |---|---|---|
 | 🚀 演示站点 | https://demo.nexiv.me | 网页演示站 |
-| 🛡️ 授权站点1 | https://nexivai_auth.nexiv.me | 授权管理平台 |
-| 🛡️ 授权站点2 | https://artdraw-auth.l11.top | 备用授权平台 |
-| 📊 管理后台 | https://nexiv.me | 运营后台 |
+| 🛡️ 授权站点 1 | https://nexivai_auth.nexiv.me | 授权管理平台 |
+| 🛡️ 授权站点 2 | https://artdraw-auth.l11.top | 备用授权平台 |
+| 📊 运营后台 | https://nexiv.me | 运营管理后台 |
 | 📖 文档站点 | https://docs.nexiv.me | 使用文档 |
 
 > 后台测试账号：
@@ -28,11 +44,14 @@
 > - 密码：`123123`
 
 ---
+
 <!-- 控制台预览占位 -->
 ![Dashboard Preview](./docs/assets/dashboard.png)
 
 ## ✨ 核心功能
+
 ### 💬 AI 对话与智能体
+
 - 多模型接入（GPT / Claude / Gemini / DeepSeek / 豆包 等）
 - 兼容 OpenAI Responses API
 - 原生智能体，支持 MCP 协议与技能插件
@@ -49,6 +68,7 @@
 ![Agent Preview](./docs/assets/agent.png)
 
 ### 🔍 私有化 AI 搜索
+
 - 多搜索引擎支持：Tavily、Meta‑So，多密钥轮询
 - 网页 · 图片 · 文档 · Github · 新闻 · 学术文献检索
 - AI 自动生成搜索关键词
@@ -63,7 +83,9 @@
 ![AI Search Preview](./docs/assets/search.png)
 
 ### 🎨 AI 创作套件
+
 **AI 绘图**
+
 - 多厂商绘图适配器，聚合 OpenAI / Midjourney / Google / Flux / Kling / 豆包 / Grok 等模型
 - 支持参考图、局部重绘、蒙版、复刻风格
 - 批量生成图片；后端自动对不兼容服务商拆分请求
@@ -72,9 +94,11 @@
 - 社区作品画廊，支持投稿与审核流程
 
 **AI 视频**
+
 - AI 视频生成；可在智能体工作流内调用
 
-**AI‑PPT（自研，非第三方API）**
+**AI‑PPT（自研，非第三方 API）**
+
 - 上传自定义 PPTX 模板
 - 可视化配置可替换图文占位；自动填充幻灯片
 
@@ -82,6 +106,7 @@
 ![AI Creation Preview](./docs/assets/creation.png)
 
 ### 💻 在线 IDE 与容器工作空间
+
 - 浏览器内置 IDE，支持实时预览
 - 双预览路由：子域名预览 + 备用路径预览
 - 完整容器生命周期管理：创建 / 启动 / 停止 / 销毁
@@ -98,6 +123,7 @@
 ![IDE Preview](./docs/assets/ide.png)
 
 ### 💰 模型管理与商业化
+
 - 模型封面图/视频上传
 - 内置模板，AI 批量生成模型封面
 - 模型健康监控：调用量、失败率、成功率、用户评分
@@ -114,6 +140,7 @@
 ![Model Management Preview](./docs/assets/model.png)
 
 ### 🔐 账号与授权系统
+
 - 账号密码登录、邮箱登录、手机号登录
 - 微信公众号登录、QQ 聚合登录
 - 账号安全中心，第三方账号绑定，自助重置密码
@@ -124,22 +151,26 @@
 - JWT 身份认证，预检请求拦截未授权访问
 
 ### 📝 反馈跟踪系统
+
 - 在线提交 Bug 和功能需求
 - 支持图片/视频附件
 - 完整状态流转：已接收 → 处理中(%) → 已完成 → 待发布 → 已发布
 - 状态变更邮件通知提交人
 
 ### 🖥️ 桌面客户端
+
 - Tauri‑Rust Windows 桌面客户端
 - 桌面专属智能体本地工作空间模式：本地文件读写 & Shell 执行
 - 独立桌面设置面板与公告系统
 - 二维码登录 & 网页跳转授权登录
 
 ### 🤖 微信 ClawBot
+
 - 微信 ClawBot 机器人集成
 - 通过微信机器人调用智能体、MCP、绘图、视频生成、对话、定时任务
 
 ### 🌏 UI 定制与国际化
+
 - 全局页面过渡动画，图片懒加载动画
 - 通用图片灯箱查看器；画廊分类管理
 - 多语言：简体中文 · 英文 · 日文 · 韩文，后台批量翻译
@@ -148,6 +179,7 @@
 - 静态页面 Markdown 可视化编辑器：服务条款、隐私政策、常见问题、关于我们
 
 ### 🛠️ 运维能力
+
 - 双存储后端：本地存储 & S3 兼容对象存储
 - API 服务商多密钥轮询，自动故障转移
 - 一键数据库表结构同步
@@ -155,13 +187,16 @@
 - 验证码服务商：极验 v4、Cloudflare Turnstile
 
 ### 🧩 其他功能
+
 - 语音输入（ASR）
 - OpenAI TTS 语音播报，可自定义音色配置
 - 邀请返利体系
 - 全局吉祥物自定义：颜色、姿态、配饰、主题
 
 ---
+
 ## 🧱 技术栈
+
 | 分层 | 技术 |
 |---|---|
 | 前端 | React + TypeScript + Vite + TailwindCSS |
