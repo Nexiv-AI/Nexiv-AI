@@ -1,3 +1,4 @@
+
 # Nexiv AI
 
 <div align="center">
@@ -17,17 +18,9 @@
 
 <!-- Logo 占位 -->
 <p align="center">
-  <img src="./docs/assets/logo.png" alt="Nexiv AI Logo" width="200" />
+  <img src="https://github.com/user-attachments/assets/643bf144-7fd7-4dd1-a39b-e0c6cfa4ecd0" alt="Nexiv AI Logo" width="200" />
 </p>
 
-<!-- Banner 占位 -->
-<p align="center">
-  <img src="./docs/assets/banner.png" alt="Nexiv AI Banner" />
-</p>
-
-> [!NOTE]
-> 所有图片占位路径均使用 `./docs/assets/*.png`  
-> 请将 Logo、Banner、预览截图放置在 `docs/assets/` 目录下。
 
 ## 🔗 官方链接
 
