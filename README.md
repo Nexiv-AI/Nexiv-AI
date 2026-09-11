@@ -18,7 +18,7 @@
 
 <!-- Logo 占位 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/643bf144-7fd7-4dd1-a39b-e0c6cfa4ecd0" alt="Nexiv AI Logo" width="200" />
+  <img src="./dist/logo.png" alt="Nexiv AI Logo" width="200" />
 </p>
 
 
@@ -39,7 +39,7 @@
 ---
 
 <!-- 控制台预览占位 -->
-![Dashboard Preview](./docs/assets/dashboard.png)
+![Dashboard Preview](./dist/dashboard.png)
 
 ## ✨ 核心功能
 
@@ -58,7 +58,7 @@
 - 对话内可视化组件：思维导图 · 流程图 · 拓扑图 · 结构图 · 时间线
 
 <!-- 智能体预览占位 -->
-![Agent Preview](./docs/assets/agent.png)
+![Agent Preview](./dist/agent.png)
 
 ### 🔍 私有化 AI 搜索
 
@@ -73,7 +73,7 @@
 - 搜索工具独立点数计费
 
 <!-- AI 搜索预览占位 -->
-![AI Search Preview](./docs/assets/search.png)
+![AI Search Preview](./distsearch.png)
 
 ### 🎨 AI 创作套件
 
@@ -96,7 +96,7 @@
 - 可视化配置可替换图文占位；自动填充幻灯片
 
 <!-- 创作预览占位 -->
-![AI Creation Preview](./docs/assets/creation.png)
+![AI Creation Preview](./distcreation.png)
 
 ### 💻 在线 IDE 与容器工作空间
 
@@ -113,7 +113,7 @@
 - 拖拽上传文件，剪贴板粘贴上传
 
 <!-- IDE 预览占位 -->
-![IDE Preview](./docs/assets/ide.png)
+![IDE Preview](./distide.png)
 
 ### 💰 模型管理与商业化
 
@@ -130,7 +130,7 @@
 - 用户账单与交易记录
 
 <!-- 模型管理预览占位 -->
-![Model Management Preview](./docs/assets/model.png)
+![Model Management Preview](./distmodel.png)
 
 ### 🔐 账号与授权系统
 
