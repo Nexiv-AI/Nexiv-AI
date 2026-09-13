@@ -8,12 +8,6 @@
 > **平台简介**  
 > Nexiv AI 聚合 OpenAI / Midjourney / Google / Flux / Kling / 豆包 / Grok 等顶级 AI 绘图模型，统一计费、一键调用。  
 > 关键词：AI 绘图,AI 画图,Midjourney,DALL·E,FLUX,Nano Banana,Kling,Seedream,文生图,API
-
-[![Release](https://img.shields.io/badge/release‑2.0.0‑4285F4)](https://github.com/)
-[![Docker](https://img.shields.io/badge/docker‑supported‑FF7A00)](https://github.com/)
-[![License](https://img.shields.io/badge/license‑MIT‑2DA44E)](https://github.com/)
-[![Stars](https://img.shields.io/github/stars/xxxx/nexiv‑ai?style=social)](https://github.com/)
-
 </div>
 
 <!-- Logo 占位 -->
