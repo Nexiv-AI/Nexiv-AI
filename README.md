@@ -12,7 +12,7 @@
 
 <!-- Logo 占位 -->
 <p align="center">
-  <img src="./dist/logo.png" alt="Nexiv AI Logo" width="200" />
+  <img src="./dist/retouch_2026091203090990.png" alt="Nexiv AI Logo" width="200" />
 </p>
 
 
