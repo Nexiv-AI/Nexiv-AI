@@ -3,14 +3,13 @@
 
 <div align="center">
 
-> 原 ArtDraw‑AI · **一站式 AI 绘图聚合平台**
+> Nexiv Ai · **一站式 AI 绘图聚合平台**
 
 > **平台简介**  
 > Nexiv AI 聚合 OpenAI / Midjourney / Google / Flux / Kling / 豆包 / Grok 等顶级 AI 绘图模型，统一计费、一键调用。  
 > 关键词：AI 绘图,AI 画图,Midjourney,DALL·E,FLUX,Nano Banana,Kling,Seedream,文生图,API
 </div>
 
-<!-- Logo 占位 -->
 <p align="center">
   <img src="./dist/retouch_2026091203090990.png" alt="Nexiv AI Logo" width="200" />
 </p>
@@ -32,7 +31,6 @@
 
 ---
 
-<!-- 控制台预览占位 -->
 ![Dashboard Preview](./dist/dashboard.png)
 
 ## ✨ 核心功能
@@ -51,7 +49,6 @@
 - 增强版 Markdown 渲染器
 - 对话内可视化组件：思维导图 · 流程图 · 拓扑图 · 结构图 · 时间线
 
-<!-- 智能体预览占位 -->
 ![Agent Preview](./dist/agent.png)
 
 ### 🔍 私有化 AI 搜索
@@ -66,7 +63,6 @@
 - 可单独开关每个搜索工具，自定义搜索参数
 - 搜索工具独立点数计费
 
-<!-- AI 搜索预览占位 -->
 ![AI Search Preview](./dist/search.png)
 
 ### 🎨 AI 创作套件
@@ -90,7 +86,7 @@
 - 上传自定义 PPTX 模板
 - 可视化配置可替换图文占位；自动填充幻灯片
 
-<!-- 创作预览占位 -->
+- 
 ![AI Creation Preview](./dist/creation.png)
 ![AI Creation Preview](./dist/creation2.png)
 ### 💻 在线 IDE 与容器工作空间
@@ -122,7 +118,6 @@
 - 批量兑换码管理
 - 用户账单与交易记录
 
-<!-- 模型管理预览占位 -->
 ![Model Management Preview](./dist/model.png)
 
 ### 🔐 账号与授权系统
